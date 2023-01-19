@@ -17,8 +17,8 @@ export default defineNuxtConfig({
             //<meta name="copyright" content="Propietario del copyright" />
             { name: 'google-site-verification', content: '' },
             { hid: 'fb:app_id', name: 'fb:app_id', content: '12873892173892' },
-            { hid: 'og:title', name: 'og:title', content: "OG CONTENT" },
-            { hid: 'og:image', name: 'og:image', content: "IMAGE OG DESCRIPTION" },
+/*             { hid: 'og:title', name: 'og:title', content: "OG CONTENT" },
+            { hid: 'og:image', name: 'og:image', content: "IMAGE OG DESCRIPTION" }, */
 
           ],
         }
