@@ -14,7 +14,7 @@
         <v-icon>mdi-dots-vertical</v-icon>
       </v-btn> -->
       <v-btn to="/checkout">
-        <v-icon>mdi-dots-vertical</v-icon>holox
+        <v-icon>mdi-dots-vertical</v-icon>checkout
       </v-btn>
     </v-app-bar>
 
